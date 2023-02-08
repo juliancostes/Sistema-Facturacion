@@ -1,0 +1,28 @@
+C:\Users\RTECH\Desktop\TP Facturacion\Micro sistema de Ventas\obj\Debug\Facturacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\RTECH\Desktop\TP Facturacion\Micro sistema de Ventas\obj\Debug\Micro_sistema_de_Ventas.frmAltaProducto.resources
+C:\Users\RTECH\Desktop\TP Facturacion\Micro sistema de Ventas\obj\Debug\Micro_sistema_de_Ventas.frmAltaCliente.resources
+C:\Users\RTECH\Desktop\TP Facturacion\Micro sistema de Ventas\obj\Debug\Micro_sistema_de_Ventas.frmFacturacion.resources
+C:\Users\RTECH\Desktop\TP Facturacion\Micro sistema de Ventas\obj\Debug\Micro_sistema_de_Ventas.frmAltaVendedores.resources
+C:\Users\RTECH\Desktop\TP Facturacion\Micro sistema de Ventas\obj\Debug\Micro_sistema_de_Ventas.frmInformes.resources
+C:\Users\RTECH\Desktop\TP Facturacion\Micro sistema de Ventas\obj\Debug\Micro_sistema_de_Ventas.main.resources
+C:\Users\RTECH\Desktop\TP Facturacion\Micro sistema de Ventas\obj\Debug\Micro_sistema_de_Ventas.Properties.Resources.resources
+C:\Users\RTECH\Desktop\TP Facturacion\Micro sistema de Ventas\obj\Debug\Facturacion.csproj.GenerateResource.cache
+C:\Users\RTECH\Desktop\TP Facturacion\Micro sistema de Ventas\obj\Debug\Facturacion.csproj.CoreCompileInputs.cache
+C:\Users\RTECH\Desktop\TP Facturacion\Micro sistema de Ventas\obj\Debug\Micro sistema de Ventas.exe
+C:\Users\RTECH\Desktop\TP Facturacion\Micro sistema de Ventas\obj\Debug\Micro sistema de Ventas.pdb
+C:\Users\RTECH\Desktop\TP Facturacion\Facturacion\obj\Debug\Facturacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\RTECH\Desktop\TP Facturacion\Facturacion\obj\Debug\Facturacion.frmAltaProducto.resources
+C:\Users\RTECH\Desktop\TP Facturacion\Facturacion\obj\Debug\Facturacion.frmAltaCliente.resources
+C:\Users\RTECH\Desktop\TP Facturacion\Facturacion\obj\Debug\Facturacion.frmFacturacion.resources
+C:\Users\RTECH\Desktop\TP Facturacion\Facturacion\obj\Debug\Facturacion.frmAltaVendedores.resources
+C:\Users\RTECH\Desktop\TP Facturacion\Facturacion\obj\Debug\Facturacion.frmInformes.resources
+C:\Users\RTECH\Desktop\TP Facturacion\Facturacion\obj\Debug\Facturacion.main.resources
+C:\Users\RTECH\Desktop\TP Facturacion\Facturacion\obj\Debug\Micro_sistema_de_Ventas.Properties.Resources.resources
+C:\Users\RTECH\Desktop\TP Facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.cache
+C:\Users\RTECH\Desktop\TP Facturacion\Facturacion\obj\Debug\Facturacion.csproj.CoreCompileInputs.cache
+C:\Users\RTECH\Desktop\TP Facturacion\Facturacion\bin\Debug\Micro sistema de Ventas.exe.config
+C:\Users\RTECH\Desktop\TP Facturacion\Facturacion\bin\Debug\Micro sistema de Ventas.exe
+C:\Users\RTECH\Desktop\TP Facturacion\Facturacion\bin\Debug\Micro sistema de Ventas.pdb
+C:\Users\RTECH\Desktop\TP Facturacion\Facturacion\obj\Debug\Facturacion.csproj.AssemblyReference.cache
+C:\Users\RTECH\Desktop\TP Facturacion\Facturacion\obj\Debug\Micro sistema de Ventas.exe
+C:\Users\RTECH\Desktop\TP Facturacion\Facturacion\obj\Debug\Micro sistema de Ventas.pdb

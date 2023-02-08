@@ -1,0 +1,28 @@
+C:\Users\EMATP\Desktop\Micro sistema de ventas\Micro sistema de Ventas\Micro sistema de Ventas\bin\Debug\Micro sistema de Ventas.exe.config
+C:\Users\EMATP\Desktop\Micro sistema de ventas\Micro sistema de Ventas\Micro sistema de Ventas\bin\Debug\Micro sistema de Ventas.exe
+C:\Users\EMATP\Desktop\Micro sistema de ventas\Micro sistema de Ventas\Micro sistema de Ventas\bin\Debug\Micro sistema de Ventas.pdb
+C:\Users\EMATP\Desktop\Micro sistema de ventas\Micro sistema de Ventas\Micro sistema de Ventas\obj\Debug\Micro sistema de Ventas.csproj.AssemblyReference.cache
+C:\Users\EMATP\Desktop\Micro sistema de ventas\Micro sistema de Ventas\Micro sistema de Ventas\obj\Debug\Micro sistema de Ventas.csproj.SuggestedBindingRedirects.cache
+C:\Users\EMATP\Desktop\Micro sistema de ventas\Micro sistema de Ventas\Micro sistema de Ventas\obj\Debug\Micro_sistema_de_Ventas.Principal.resources
+C:\Users\EMATP\Desktop\Micro sistema de ventas\Micro sistema de Ventas\Micro sistema de Ventas\obj\Debug\Micro_sistema_de_Ventas.Properties.Resources.resources
+C:\Users\EMATP\Desktop\Micro sistema de ventas\Micro sistema de Ventas\Micro sistema de Ventas\obj\Debug\Micro sistema de Ventas.csproj.GenerateResource.cache
+C:\Users\EMATP\Desktop\Micro sistema de ventas\Micro sistema de Ventas\Micro sistema de Ventas\obj\Debug\Micro sistema de Ventas.csproj.CoreCompileInputs.cache
+C:\Users\EMATP\Desktop\Micro sistema de ventas\Micro sistema de Ventas\Micro sistema de Ventas\obj\Debug\Micro sistema de Ventas.exe
+C:\Users\EMATP\Desktop\Micro sistema de ventas\Micro sistema de Ventas\Micro sistema de Ventas\obj\Debug\Micro sistema de Ventas.pdb
+C:\Users\EMATP\Desktop\Micro sistema de ventas\Micro sistema de Ventas\Micro sistema de Ventas\obj\Debug\Micro_sistema_de_Ventas.ClsVend.resources
+C:\Users\Titor Javier\Documents\Proyectos Visual Studios\Micro sistema de Ventas\Micro sistema de Ventas\bin\Debug\Micro sistema de Ventas.exe.config
+C:\Users\Titor Javier\Documents\Proyectos Visual Studios\Micro sistema de Ventas\Micro sistema de Ventas\bin\Debug\Micro sistema de Ventas.exe
+C:\Users\Titor Javier\Documents\Proyectos Visual Studios\Micro sistema de Ventas\Micro sistema de Ventas\bin\Debug\Micro sistema de Ventas.pdb
+C:\Users\Titor Javier\Documents\Proyectos Visual Studios\Micro sistema de Ventas\Micro sistema de Ventas\obj\Debug\Micro sistema de Ventas.csproj.AssemblyReference.cache
+C:\Users\Titor Javier\Documents\Proyectos Visual Studios\Micro sistema de Ventas\Micro sistema de Ventas\obj\Debug\Micro sistema de Ventas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Titor Javier\Documents\Proyectos Visual Studios\Micro sistema de Ventas\Micro sistema de Ventas\obj\Debug\Micro_sistema_de_Ventas.Principal.resources
+C:\Users\Titor Javier\Documents\Proyectos Visual Studios\Micro sistema de Ventas\Micro sistema de Ventas\obj\Debug\Micro_sistema_de_Ventas.Properties.Resources.resources
+C:\Users\Titor Javier\Documents\Proyectos Visual Studios\Micro sistema de Ventas\Micro sistema de Ventas\obj\Debug\Micro sistema de Ventas.csproj.GenerateResource.cache
+C:\Users\Titor Javier\Documents\Proyectos Visual Studios\Micro sistema de Ventas\Micro sistema de Ventas\obj\Debug\Micro sistema de Ventas.csproj.CoreCompileInputs.cache
+C:\Users\Titor Javier\Documents\Proyectos Visual Studios\Micro sistema de Ventas\Micro sistema de Ventas\obj\Debug\Micro sistema de Ventas.exe
+C:\Users\Titor Javier\Documents\Proyectos Visual Studios\Micro sistema de Ventas\Micro sistema de Ventas\obj\Debug\Micro sistema de Ventas.pdb
+C:\Users\Titor Javier\Documents\Proyectos Visual Studios\Micro sistema de Ventas\Micro sistema de Ventas\obj\Debug\Micro_sistema_de_Ventas.formAltaVendedores.resources
+C:\Users\Titor Javier\Documents\Proyectos Visual Studios\Micro sistema de Ventas\Micro sistema de Ventas\obj\Debug\Micro_sistema_de_Ventas.formAltaCliente.resources
+C:\Users\Titor Javier\Documents\Proyectos Visual Studios\Micro sistema de Ventas\Micro sistema de Ventas\obj\Debug\Micro_sistema_de_Ventas.formAltaProducto.resources
+C:\Users\Titor Javier\Documents\Proyectos Visual Studios\Micro sistema de Ventas\Micro sistema de Ventas\obj\Debug\Micro_sistema_de_Ventas.formFacturacion.resources
+C:\Users\Titor Javier\Documents\Proyectos Visual Studios\Micro sistema de Ventas\Micro sistema de Ventas\obj\Debug\Micro_sistema_de_Ventas.formInformes.resources
